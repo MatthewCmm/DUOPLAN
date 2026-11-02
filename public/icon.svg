@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#2D2A26"/>
+  <!-- Two overlapping circles: Terracotta and Sage -->
+  <circle cx="210" cy="256" r="110" fill="#C87D65" opacity="0.9"/>
+  <circle cx="302" cy="256" r="110" fill="#7A9A8B" opacity="0.85"/>
+  <!-- Checkmark -->
+  <path d="M190 260 L235 305 L325 215" fill="none" stroke="#FAF8F5" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
